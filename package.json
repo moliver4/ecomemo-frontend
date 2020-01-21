@@ -1,0 +1,27 @@
+{
+  "name": "ecomemo-frontend",
+  "version": "1.0.0",
+  "description": "front-end for ecomemo-app memory card game",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moliver4/ecomemo-frontend.git"
+  },
+  "keywords": [
+    "environment",
+    "memory",
+    "recycle"
+  ],
+  "author": "Tiffany Tang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moliver4/ecomemo-frontend/issues"
+  },
+  "homepage": "https://github.com/moliver4/ecomemo-frontend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
