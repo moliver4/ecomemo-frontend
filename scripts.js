@@ -1,5 +1,5 @@
-const GAMESURL = "http://localhost:3000/games"
-const USERSURL = "http://localhost:3000/users"
+const GAMESURL = "https://chatster-app-api.herokuapp.com/games"
+const USERSURL = "https://chatster-app-api.herokuapp.com/users"
 
 window.addEventListener('DOMContentLoaded', e => {
 
