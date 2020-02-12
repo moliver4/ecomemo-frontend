@@ -23,7 +23,7 @@ Login to play!
 
 Website Layout - Login - Functionality - Start Game
 
-[![Ecomemo Demo Part 1](http://img.youtube.com/vi/2FS6dpiWeZw/0.jpg)](http://www.youtube.com/watch?v=2FS6dpiWeZw "Ecomemo Demo Part 1") 
+![Ecomemo Game Demo Part 1 Here](https://github.com/moliver4/ecomemo-frontend/blob/master/ezgif.com-optimize.gif)
 
 Finish Game - Save Game - Logout
 
