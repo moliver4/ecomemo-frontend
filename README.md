@@ -7,14 +7,14 @@ Due to the fact that I don't have 300 billion dollars to lower carbon emissions,
 
 ## Installation
 
-I hope to eventually host this. 
+Hosted [Here](https://eco-memo.herokuapp.com/)
 
 Right now, to play, please fork the repository and clone it down. (Make sure you have Postgres and rails installed). 
 
 Then access the backend, ```cd``` into the ```ecomemo-backend-api``` and run ```bundle install```, ```rails db:create``` and ```rails:db migrate```. Launch your local host server with ```rails s```. 
 
 In the ```Ecomemo-frontend```folder, open ```index.html``` in your browser, currently this only works on GoogleChrome.
- 
+
 Login to play!
 
 ## Usage
@@ -32,11 +32,7 @@ Finish Game - Save Game - Logout
 ## Made With
 ruby ~> 2.6.1
 rails ~> 6.0.2
-<<<<<<< HEAD
-postgresql
-=======
 PostgreSQL
->>>>>>> fe8091f5b610d49a02fc64b5068390b704393c7f
 Vanilla JS
 Vanilla CSS
 HTML
