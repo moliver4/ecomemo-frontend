@@ -8,14 +8,16 @@ Due to the fact that I don't have 300 billion dollars to lower carbon emissions,
 ## Installation
 
 Hosted [Here](https://eco-memo.herokuapp.com/)
+** Must Use GOOGLE CHROME ** 
+Login to play!
 
-Right now, to play, please fork the repository and clone it down. (Make sure you have Postgres and rails installed). 
+To use develop/code, please fork the repository and clone it down. (Make sure you have Postgres and rails installed). 
 
 Then access the backend, ```cd``` into the ```ecomemo-backend-api``` and run ```bundle install```, ```rails db:create``` and ```rails:db migrate```. Launch your local host server with ```rails s```. 
 
 In the ```Ecomemo-frontend```folder, open ```index.html``` in your browser, currently this only works on Google Chrome.
 
-Login to play!
+
 
 ## Usage
 
