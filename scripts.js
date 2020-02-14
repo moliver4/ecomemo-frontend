@@ -516,7 +516,7 @@ window.addEventListener('DOMContentLoaded', e => {
     function flipCard() {
         if(!usernameName) {
              
-            Swal.fire('Please Login to Play!')
+            Swal.fire('Hello! This Game currently works on Google Chrome Browsers. Please Login and Press START to Play!')
             return;
         }
         if(lockBoard){
