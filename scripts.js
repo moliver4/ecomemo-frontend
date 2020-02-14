@@ -1,5 +1,5 @@
-const GAMESURL = "http://ecomemo-app-api.herokuapp.com/games"
-const USERSURL = "http://ecomemo-app-api.herokuapp.com/users"
+const GAMESURL = "https://ecomemo-app-api.herokuapp.com/games"
+const USERSURL = "https://ecomemo-app-api.herokuapp.com/users"
 
 window.addEventListener('DOMContentLoaded', e => {
 

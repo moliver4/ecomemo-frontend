@@ -13,7 +13,7 @@ Right now, to play, please fork the repository and clone it down. (Make sure you
 
 Then access the backend, ```cd``` into the ```ecomemo-backend-api``` and run ```bundle install```, ```rails db:create``` and ```rails:db migrate```. Launch your local host server with ```rails s```. 
 
-In the ```Ecomemo-frontend```folder, open ```index.html``` in your browser, currently this only works on GoogleChrome.
+In the ```Ecomemo-frontend```folder, open ```index.html``` in your browser, currently this only works on Google Chrome.
 
 Login to play!
 
