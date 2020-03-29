@@ -1,6 +1,6 @@
 # Eco-Memo
 
-Eco-Memo is a memory card game that allows you to match the Recycling Symbols with the correct, corresponding description. 
+Eco-Memo is a timed memory card game that allows you to match the Recycling Symbols with the correct, corresponding description. 
 
 ## Why I Made This
 Due to the fact that I don't have 300 billion dollars to lower carbon emissions, I figured I could do something else to help. I wanted to make something to help people who might have been as confused as I was when I first started to recycle. Sometimes, there are so many symbols and we don't know what is what, so either we end up contaminating the recycling, or we end up throwing everything away and it ends up on a beach somewhere. 
